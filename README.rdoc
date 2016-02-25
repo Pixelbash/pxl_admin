@@ -1,3 +1,24 @@
 = PxlAdmin
 
 This project rocks and uses MIT-LICENSE.
+
+##Todo:
+- Foundation based admin template
+- SEO functionality
+- Role based permissions
+- Config or decorator based admin menu creation
+- User password reset
+- Record pagination
+- Record filtering
+- Record bulk actions (delete, edit)
+- Common concerns for models (hide, publish on, etc)
+- Central image management system
+- Contact form system
+- Page system
+- Post system
+- Post taxon system
+- Tag all the things
+- Dashboard (analytics)
+- Dynamic preferences system & helpers
+- Nice media uploader
+- Live post editor
