@@ -1,6 +1,6 @@
 =PxlAdmin
 
-This project rocks and uses MIT-LICENSE.
+A clean, modern admin interface with everything you need and nothing you don't
 
 ==Todo:
 - Foundation based admin template
@@ -22,3 +22,7 @@ This project rocks and uses MIT-LICENSE.
 - Dynamic preferences system & helpers
 - Nice media uploader
 - Live post editor
+- API functionality
+
+==License
+This project rocks and uses MIT-LICENSE.
